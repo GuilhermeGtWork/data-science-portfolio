@@ -50,5 +50,6 @@
 2. Instale as dependências:
 
 ```bash
-pip install pandas matplotlib
+pip install -r requirements.txt
 ```
+
