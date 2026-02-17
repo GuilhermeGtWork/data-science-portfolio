@@ -46,10 +46,12 @@
 
 ## Como executar
 
-1. Baixe o Notebook  
-2. Instale as dependências:
+1. Baixe o Notebook
+2. Abra o terminal da pasta
+3. Instale as dependências:
 
 ```bash
 pip install -r requirements.txt
 ```
+
 
